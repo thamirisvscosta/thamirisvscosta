@@ -11,13 +11,18 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Thami-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thami-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Thami-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+  <img align="center" alt="Thami-WooComerce" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" />
+
+
   <!--<img align="center" alt="Thami-Go" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />-->
   <img img align="right" alt="Thami-Js" height="140" width="140" src="https://user-images.githubusercontent.com/94200167/153612608-d6238166-87e6-4e7d-8243-68247e8e85e7.gif">
 </div>
+
   
   ##
   
