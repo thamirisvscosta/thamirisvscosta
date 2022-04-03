@@ -1,7 +1,7 @@
 ### Hey, what's up!! I'm Thamiris Costa!  ✌️😎
 
 - I'm a Mechanical Engineering Student ⚙️ and Jr Web Developer 💻 .
-- 📖 I’m learning frameworks to JavaScript like React, VueJs and Intermediate Python!
+- 📖 I’m learning frameworks to JavaScript like React, React Native and Intermediate Python!
 - ➗  My goal is to share the projects I create and learn and make available to the community!
 
 <div style="display: inline_block" align="center">
