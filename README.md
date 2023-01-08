@@ -17,6 +17,9 @@
   <img align="center" alt="Thami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thami-WordPress" height="30" width="40" src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?size=128&color=currentColor" />
+  
+            <i class="devicon-wordpress-plain-wordmark"></i>
+          
   <img align="center" alt="Thami-WooComerce" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" />
 
 
