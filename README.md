@@ -1,7 +1,7 @@
 ### Hey, what's up!! I'm Thamiris Costa!  ✌️😎
 
 * ⚙️ I'm a **Mechanical Engineering Student** and **Jr Data Engineer** 💻.
-* 🐍 I'm building **Automated Systems with Python** and complex workflows in **n8n**!
+* 🤖 I'm building **Automated Systems with Python** and complex workflows in **n8n**!
 * 🚀 My goal is to automate the world (or at least my tasks) and share the code with you!
 
 <div align="center">
@@ -19,22 +19,19 @@
   <!-- LINGUAGENS -->
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thami-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="center" alt="Thami-C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
-  
+ 
   <img align="center" alt="Thami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="center" alt="Thami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="Thami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-            
-  <img align="center" alt="Thami-3js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
   
   <img align="center" alt="Thami-mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
   <img align="center" alt="Thami-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-          
+  
+  <img align="center" alt="Thami-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   <img align="center" alt="Thami-n8n" height="30" width="40" src="https://cdn.simpleicons.org/n8n/FF6D5A" />
   
   <img align="center" alt="Thami-Docker" height="30" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />          
