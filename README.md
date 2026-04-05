@@ -23,7 +23,8 @@
   <img align="center" alt="Thami-3js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
   
   <img align="center" alt="Thami-n8n" height="30" width="40" src="https://cdn.simpleicons.org/n8n/FF6D5A" />
-          
+  
+<img align="center" alt="Thami-Docker" height="30" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />          
   
   <img img align="right" alt="Thami-Js" height="140" width="140" src="https://user-images.githubusercontent.com/94200167/153612608-d6238166-87e6-4e7d-8243-68247e8e85e7.gif">
 </div>
