@@ -5,9 +5,9 @@
 - ➗  My goal is to share the projects I create and learn and make available to the community!
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=thamirisvscosta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thamirisvscosta&theme=highcontrast&hide_border=true" />
 
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=thamirisvscosta&layout=compact&langs_count=7&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thamirisvscosta&theme=highcontrast" />
 </div>
 
   <!-- LINGUAGENS -->
