@@ -5,10 +5,8 @@
 - ➗  My goal is to share the projects I create and learn and make available to the community!
 
 <div align="center">
-  <a href="https://github.com/thamirisvscosta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamirisvscosta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamirisvscosta&layout=compact&langs_count=7&theme=radical" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamirisvscosta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="Thamiris Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamirisvscosta&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
 </div>
 
 <div style="display: inline_block"><br>
