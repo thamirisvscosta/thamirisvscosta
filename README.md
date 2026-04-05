@@ -1,8 +1,8 @@
 ### Hey, what's up!! I'm Thamiris Costa!  ✌️😎
 
-- I'm a Mechanical Engineering Student ⚙️ and Jr Data Engineer 💻 .
-- 📖 I’m learning frameworks to JavaScript and also Automated Systems with Python!
-- ➗  My goal is to share the projects I create and learn and make available to the community!
+* ⚙️ I'm a **Mechanical Engineering Student** and **Jr Data Engineer** 💻.
+* 🐍 I'm building **Automated Systems with Python** and complex workflows in **n8n**!
+* 🚀 My goal is to automate the world (or at least my tasks) and share the code with you!
 
 <div align="center">
   <table border="0">
