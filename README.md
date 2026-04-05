@@ -5,9 +5,9 @@
 - ➗  My goal is to share the projects I create and learn and make available to the community!
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thamirisvscosta&theme=highcontrast&hide_border=true" alt="Thamiris Streak" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thamirisvscosta&theme=highcontrast&hide_border=true" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamirisvscosta&layout=compact&langs_count=7&theme=radical" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thamirisvscosta&layout=compact&langs_count=7&theme=radical" />
 </div>
 
   <!-- LINGUAGENS -->
