@@ -21,7 +21,8 @@
   <img align="center" alt="Thami-WooComerce" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" />
 
   <img align="center" alt="Thami-3js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
-  <img align="center" alt="Thami-3js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
+  <img align="center" alt="Thami-n8n" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://streamlinehq.com)" />
           
   
   <img img align="right" alt="Thami-Js" height="140" width="140" src="https://user-images.githubusercontent.com/94200167/153612608-d6238166-87e6-4e7d-8243-68247e8e85e7.gif">
