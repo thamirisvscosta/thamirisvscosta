@@ -1,7 +1,7 @@
 ### Hey, what's up!! I'm Thamiris Costa!  ✌️😎
 
-- I'm a Mechanical Engineering Student ⚙️ and Jr Web Developer 💻 .
-- 📖 I’m learning frameworks to JavaScript like React, React Native and also Intermediate Python!
+- I'm a Mechanical Engineering Student ⚙️ and Jr Data Engineer 💻 .
+- 📖 I’m learning frameworks to JavaScript and also Automated Systems with Python!
 - ➗  My goal is to share the projects I create and learn and make available to the community!
 
 <div align="center">
@@ -35,7 +35,7 @@
   <img img align="right" alt="Thami-GIF" height="140" width="140" src="https://user-images.githubusercontent.com/94200167/153612608-d6238166-87e6-4e7d-8243-68247e8e85e7.gif">
 </div>
 
-  
+###  
   
   <div>
       <a href = "mailto:thamirisvscosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
