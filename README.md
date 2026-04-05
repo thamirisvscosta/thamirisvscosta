@@ -32,13 +32,11 @@
   
   <img align="center" alt="Thami-Docker" height="30" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />          
   
-  <!-- GIF -->
   <img img align="right" alt="Thami-GIF" height="140" width="140" src="https://user-images.githubusercontent.com/94200167/153612608-d6238166-87e6-4e7d-8243-68247e8e85e7.gif">
 </div>
 
   
-  ###
-    <!-- EMAIL E LINKEDIN -->
+  
   <div>
       <a href = "mailto:thamirisvscosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/thamiris-verediano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
