@@ -8,7 +8,7 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=thamirisvscosta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+        <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thamirisvscosta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
       </td>
       <td>
         <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thamirisvscosta&layout=compact&langs_count=7&theme=radical" />
@@ -16,7 +16,6 @@
     </tr>
   </table>
 </div>
-
   <!-- LINGUAGENS -->
 
 <div style="display: inline_block"><br>
