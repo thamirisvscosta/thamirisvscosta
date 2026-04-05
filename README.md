@@ -4,10 +4,11 @@
 - 📖 I’m learning frameworks to JavaScript like React, React Native and also Intermediate Python!
 - ➗  My goal is to share the projects I create and learn and make available to the community!
 
-<div style="display: inline_block" align="center">
+<div align="center">
   <a href="https://github.com/thamirisvscosta">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=thamirisvscosta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamirisvscosta&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamirisvscosta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamirisvscosta&layout=compact&langs_count=7&theme=radical" />
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
